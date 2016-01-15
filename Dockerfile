@@ -1,6 +1,6 @@
 FROM ubuntu
 MAINTAINER cuijie "yinsu@foxmailc.om"
-ENV REFRESHED_AT 2014-06-01
+ENV REFRESHED_AT 2016-01-15
 
 RUN apt-get update
 RUN apt-get -y -q install nginx
